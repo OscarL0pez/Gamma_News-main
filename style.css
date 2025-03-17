@@ -1,4 +1,4 @@
-
+/*cuerpo de la pagina*/
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -24,6 +24,18 @@ p {
     margin: 10px 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
+}
+
+.noticia-principal .noticia{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.noticia-principal img {
+    align-items: center;
+    max-width: 30%;
+    height: auto;
+
 }
 
 main {
